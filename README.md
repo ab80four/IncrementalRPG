@@ -1,2 +1,3 @@
 # IncrementalRPG
-my first crack at making a web game
+My first crack at making a web game
+Hello Web!
